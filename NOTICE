@@ -1,0 +1,21 @@
+omegaflow/sources — NOTICE
+
+This repository redistributes third-party scientific data catalogues that the
+omegaflow project has compiled. The data are NOT covered by a single licence:
+each source keeps its own licence.
+
+The per-source licence is recorded in the parent repository
+(omegaflow/omegaflow) in the register `phi/sources.φ`: every source block carries
+the directive `terms <SPDX-token> <licence-url>` (e.g. `terms CC-BY-4.0
+https://…`). A local census lives at `state/mountain/license-census.tsv`.
+
+Tokens seen here include PD, CC0-1.0, CC-BY-4.0, CC-BY-3.0, CC-BY-SA-3.0,
+CC-BY-NC-3.0-IGO, CC-BY-NC-4.0, CC-BY-NC-SA-4.0, ODbL-1.0, ODC-By-1.0,
+PDDL-1.0, OGL-Canada-2.0, free-open, own-work, and the honest states
+`unbestimmt` (no licence statement measurable at the host) and `ohne-lizenz`
+(redistribution restricted). Reuse must follow the upstream source's licence and
+acknowledgement terms.
+
+Redistribution here is a technical mirror of data the upstream sources publish
+openly. The omegaflow project's own source code is licensed separately:
+PolyForm NonCommercial + ShareAlike for `src/`, CC BY-NC-SA elsewhere.
