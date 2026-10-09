@@ -24,9 +24,12 @@ redistribution is restricted (`ohne-lizenz`) are not mirrored.
 
 ## Refresh
 
-The catalog refresh is **pending a Rust port**. This repository carries no Python: the former
-Python scripts (`refresh_all.py`, `tap_downloader.py`, `gaia_downloader.py`) and the workflow that
-called them were removed. Until the port lands, the release assets are the durable record.
+The catalog refresh runs from the parent repository's CI (`omegaflow/omegaflow`, workflow
+`sources-refresh.yml`, cron `17 */6 * * *` and `workflow_dispatch`): the Rust bin `sources_refresh`
+regenerates the catalogs and commits the changed `data/*.json` snapshot back into this repository.
+This repository carries no Python: the former Python scripts (`refresh_all.py`,
+`tap_downloader.py`, `gaia_downloader.py`) and the workflow that called them were removed; the
+releases remain the durable record of the bulk assets.
 
 The omegaflow project's own source code is licensed separately — PolyForm NonCommercial +
 ShareAlike for `src/`, CC BY-NC-SA elsewhere — in [`omegaflow/omegaflow`](https://github.com/omegaflow/omegaflow).
