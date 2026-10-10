@@ -1235,6 +1235,7 @@ https://github.com/omegaflow/sources/releases/download/noaa-oar-keo-papa-pds.s3.
 https://github.com/omegaflow/sources/releases/download/noaa-wod-pds.s3.amazonaws.com/noaa_wod_2000_drb.bin | PD | https://www.noaa.gov/
 https://github.com/omegaflow/sources/releases/download/nohrsc.noaa.gov/nohrsc_snowfall.bin | PD | https://www.nohrsc.noaa.gov/
 https://github.com/omegaflow/sources/releases/download/obis.osha.gov/osha_cehd_si.txt | unknown | https://www.osha.gov/opengov/health-samples
+https://github.com/omegaflow/sources/releases/download/open-lidar-data.s3.amazonaws.com/open_lidar_data_be_dhmv2.bin | Gratis-Open-Data-Licentie-Vlaanderen-1.2 | https://assets.vlaanderen.be/image/upload/v1679331485/GratisopendatalicentieVlaanderenv12_bqxu2t.pdf
 https://github.com/omegaflow/sources/releases/download/opendata.magic.pic.es/magic_dl3.sky1 | unknown | https://opendata.magic.pic.es/
 https://github.com/omegaflow/sources/releases/download/openneuro.org/sub-01_task-jointaction_eeg.bin | CC0-1.0 | https://openneuro.org/datasets/ds007471
 https://github.com/omegaflow/sources/releases/download/openneuro.org/sub-02_ses-sham_task-rest_eeg.bin | CC0-1.0 | https://openneuro.org/datasets/ds005034
