@@ -288,6 +288,7 @@ https://github.com/omegaflow/sources/releases/download/gportal.jaxa.jp/jaxa_gpm_
 https://github.com/omegaflow/sources/releases/download/gportal.jaxa.jp/jaxa_gportal_12001000_2015-01-01_2015-01-01.json | free-open | https://gportal.jaxa.jp/gpr/index/eula
 https://github.com/omegaflow/sources/releases/download/gracedb.ligo.org/gw250207_115645.sky1 | unknown | https://gracedb.ligo.org/api/superevents/S250207bg/files/bayestar.multiorder.fits
 https://github.com/omegaflow/sources/releases/download/gs.llnl.gov/LLNL_G3D_JPS.interpolated.g3d1 | unknown | https://gs.llnl.gov/sites/gs/files/2021-09/llnl_g3d_jps.interpolated.zip
+https://github.com/omegaflow/sources/releases/download/gwosc.org/losc.bin | CC-BY-4.0 | https://gwosc.org/yellow_box/
 https://github.com/omegaflow/sources/releases/download/heasarc.gsfc.nasa.gov/ams02_spec.bin | PD | https://heasarc.gsfc.nasa.gov/
 https://github.com/omegaflow/sources/releases/download/heasarc.gsfc.nasa.gov/drs_20160102_093513__20160103_165224.bin | PD | https://heasarc.gsfc.nasa.gov/
 https://github.com/omegaflow/sources/releases/download/hess-experiment.eu/hess_dl3.sky1 | unknown | https://hess-experiment.eu/wp-content/uploads/2025/12/hess_dl3_dr1.tar
