@@ -217,6 +217,7 @@ https://github.com/omegaflow/sources/releases/download/download.bgr.de/bgr_infra
 https://github.com/omegaflow/sources/releases/download/download.bgr.de/bgr_infrasound_IS52_2022.bin | unknown | https://www.bgr.bund.de/
 https://github.com/omegaflow/sources/releases/download/download.geofabrik.de/monaco_nodes.bin | ODbL-1.0 | https://download.geofabrik.de/
 https://github.com/omegaflow/sources/releases/download/download.isc.ac.uk/isc_ehb.bin | CC-BY-SA-3.0 | https://www.isc.ac.uk/iscgem/download.php
+https://github.com/omegaflow/sources/releases/download/download1.bayernwolke.de/32605_5282_20_DOM.bin | CC-BY-4.0 | https://www.geodaten.bayern.de/odd/m/3/html/nutzungsbedingungen.html
 https://github.com/omegaflow/sources/releases/download/earthquake.usgs.gov/usgs_comcat_m45.bin | PD | https://earthquake.usgs.gov/
 https://github.com/omegaflow/sources/releases/download/eas.esac.esa.int/tap-server-tap-sync-REQUEST-doQuery-LANG-ADQL-FORMAT-json-QUERY-SELECT_TOP_5000_right_ascension_declination_flux_detection_total_FROM_catalogue.mer_catalogue_WHERE_flux_detection_total_IS_NOT_NULL.json | CC-BY-NC-3.0-IGO | https://www.cosmos.esa.int/web/esdc/terms-and-conditions
 https://github.com/omegaflow/sources/releases/download/ecad.eu/ecad_eca_tx_TX_STAID000001.bin | non-commercial | https://knmi-ecad-assets-prd.s3.amazonaws.com/documents/ECAD_datapolicy.pdf
