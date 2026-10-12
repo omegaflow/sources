@@ -46,6 +46,8 @@ https://atmos.nmsu.edu/pdsd/archive/data/co-s-rss-1-sroc15-v10/ | PD | https://p
 https://aviationweather.gov/api/data/metar?ids=EDDF,EDDM,EGLL,KJFK,RJTT&format=json | PD | https://aviationweather.gov/
 https://aviationweather.gov/api/data/pirep?bbox=-90,-180,90,180&hours=3&format=json | PD | https://aviationweather.gov/
 https://aviationweather.gov/api/data/pirep?id=KJFK&distance=2000&format=json&age=6 | PD | https://aviationweather.gov/
+https://cdaweb.gsfc.nasa.gov/hapi/data?id=AC_H2_MFI&time.min=2010-01-01T00:00:00Z&time.max=2024-07-01T00:00:00Z&parameters=Magnitude,BGSM&format=json | PD | https://cdaweb.gsfc.nasa.gov/
+https://cdaweb.gsfc.nasa.gov/hapi/data?id=AC_H2_SWE&time.min=2010-01-01T00:00:00Z&time.max=2024-07-01T00:00:00Z&parameters=Np,Vp,Tpr&format=json | PD | https://cdaweb.gsfc.nasa.gov/
 https://cdaweb.gsfc.nasa.gov/hapi/data?id=MMS1_EDP_FAST_L2_DCE&time.min={hour_ago}T00:00:00Z&time.max={now}Z&parameters=mms1_edp_dce_gse_fast_l2&format=json | PD | https://cdaweb.gsfc.nasa.gov/
 https://cdaweb.gsfc.nasa.gov/hapi/data?id=MMS1_FGM_SRVY_L2@0&time.min={hour_ago}T00:00:00Z&time.max={now}Z&parameters=mms1_fgm_b_gse_srvy_l2_clean&format=json | PD | https://cdaweb.gsfc.nasa.gov/
 https://cdaweb.gsfc.nasa.gov/hapi/data?id=MMS1_FPI_FAST_L2_DES-MOMS&time.min={hour_ago}T00:00:00Z&time.max={now}Z&parameters=mms1_des_numberdensity_fast,mms1_des_bulkv_gse_fast&format=json | PD | https://cdaweb.gsfc.nasa.gov/
@@ -2578,8 +2580,6 @@ https://services.swpc.noaa.gov/json/goes/primary/integral-protons-1-day.json | P
 https://services.swpc.noaa.gov/json/goes/primary/magnetometers-1-day.json | PD | https://www.swpc.noaa.gov/
 https://services.swpc.noaa.gov/json/goes/primary/xray-flares-7-day.json | PD | https://www.swpc.noaa.gov/
 https://services.swpc.noaa.gov/json/goes/primary/xrays-7-day.json | PD | https://www.swpc.noaa.gov/
-https://services.swpc.noaa.gov/json/rtsw/rtsw_mag_1m.json | PD | https://www.swpc.noaa.gov/
-https://services.swpc.noaa.gov/json/rtsw/rtsw_wind_1m.json | PD | https://www.swpc.noaa.gov/
 https://services.swpc.noaa.gov/json/solar_regions.json | PD | https://www.swpc.noaa.gov/
 https://services1.arcgis.com/7iJyYTjCtKsZS1LR/arcgis/rest/services/DMF_Avg_DO_PublicView/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=geojson&resultRecordCount=2000 | unknown | https://services1.arcgis.com/
 https://services1.arcgis.com/F0O6A52a4X4EXJVh/arcgis/rest/services/Live_Weather_Stations/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=geojson&resultRecordCount=2000 | unknown | https://services1.arcgis.com/
