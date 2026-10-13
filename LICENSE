@@ -2333,7 +2333,6 @@ https://kauai.ccmc.gsfc.nasa.gov/DONKI/WS/get/CME?startDate={week_ago}&endDate={
 https://kauai.ccmc.gsfc.nasa.gov/DONKI/WS/get/FLR?startDate={week_ago}&endDate={today}&classType=X | PD | https://ccmc.gsfc.nasa.gov/
 https://kp.gfz.de/app/json/?start={today}T00:00:00Z&end={tomorrow}T00:00:00Z&index=Kp&status=def,nowcast&format=JSON | CC-BY-4.0 | https://kp.gfz.de/
 https://madrigal.eiscat.se/madrigal/isprintService.py?file=/opt/madrigal/experiments/2024/tro/03jan24/MAD6400_2024-01-03_bella_60@uhf.hdf5&parms=UT1_UNIX&parms=NE&parms=TI&parms=TE&header=t&user_fullname=researcher&user_email=researcher@example.org&user_affiliation=research | eiscat-rules-of-the-road | https://madrigal.eiscat.se/
-https://maia.usno.navy.mil/ser7/finals.all | PD | https://maia.usno.navy.mil/
 https://maps.sensor.community/data/v2/data.json | ODC-DbCL-1.0 | https://maps.sensor.community/
 https://mars.nasa.gov/rss/api/?feed=weather&category=mars2020&feedtype=json | PD | https://mars.nasa.gov/
 https://mars.nasa.gov/rss/api/?feed=weather&category=msl&feedtype=json | PD | https://mars.nasa.gov/
