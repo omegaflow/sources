@@ -313,6 +313,7 @@ https://github.com/omegaflow/sources/releases/download/isdc-data.gfz.de/champ_pl
 https://github.com/omegaflow/sources/releases/download/isdc-data.gfz.de/swarm_fac.bin | CC-BY-4.0
 https://github.com/omegaflow/sources/releases/download/isla.esac.esa.int/tap-tap-sync-REQUEST-doQuery-LANG-ADQL-FORMAT-json-QUERY-SELECT_TOP_5000_ra_dec_flux_FROM_ila.cat_source_WHERE_flux_IS_NOT_NULL.json | CC-BY-NC-3.0-IGO | https://www.cosmos.esa.int/web/esdc/terms-and-conditions
 https://github.com/omegaflow/sources/releases/download/itrf.ign.fr/sinex.bin | etalab-2.0 | https://itrf.ign.fr/en/solutions/ITRF2020
+https://github.com/omegaflow/sources/releases/download/jades.herts.ac.uk/jades_spectra.bin | CC-BY-4.0 | https://archive.stsci.edu/hlsp/jades
 https://github.com/omegaflow/sources/releases/download/jeodpp.jrc.ec.europa.eu/edgar_v81_so2_emission.nc.zip | CC-BY-4.0 | https://edgar.jrc.ec.europa.eu/
 https://github.com/omegaflow/sources/releases/download/jeodpp.jrc.ec.europa.eu/ghsl_built_s.bin | CC-BY-4.0 | https://jeodpp.jrc.ec.europa.eu/
 https://github.com/omegaflow/sources/releases/download/jsoc.stanford.edu/aia2013_01.bin | CC0-1.0 | http://jsoc.stanford.edu/JSOC_Data_Policy.html
