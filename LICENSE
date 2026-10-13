@@ -116,7 +116,6 @@ https://gis.ccc.govt.nz/server/rest/services/OpenData/WasteWater/FeatureServer/3
 https://github.com/omegaflow/sources/releases/download/air-quality-api.open-meteo.com/openmeteo_birch_pollen.txt | CC-BY-4.0 | https://open-meteo.com/en/licence
 https://github.com/omegaflow/sources/releases/download/alasky.cds.unistra.fr/hips_png_7_0.bin | ODbL-1.0 | https://alasky.cds.unistra.fr/Planets/CDS_P_Mars_Tianwen1-MoRIC/properties
 https://github.com/omegaflow/sources/releases/download/almascience.org/eht_uvfits.bin | alma-publication-acknowledgement | https://almascience.org/almadata/ec/eht/2016.1.01404.V/
-https://github.com/omegaflow/sources/releases/download/amda.irap.omp.eu/rpw_efield.bin | no-license-stated | https://amda.irap.omp.eu/service/hapi
 https://github.com/omegaflow/sources/releases/download/anderson-residuals/anderson_residuals.tsv | own-work
 https://github.com/omegaflow/sources/releases/download/api.dataplatform.knmi.nl/knmi_10_minute_in_situ_meteorological_observations_1_0_knmi_air_temperature.bin | CC-BY-4.0 | https://developer.dataplatform.knmi.nl/fair-use
 https://github.com/omegaflow/sources/releases/download/api.dataplatform.knmi.nl/knmi_10_minute_in_situ_meteorological_observations_1_0_knmi_wind_gust.bin | CC-BY-4.0 | https://developer.dataplatform.knmi.nl/fair-use
@@ -1903,7 +1902,7 @@ https://github.com/omegaflow/sources/releases/download/web.corral.tacc.utexas.ed
 https://github.com/omegaflow/sources/releases/download/ws-uv.canfar.net/vlass_tap_component.bin | cadc-open | https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/
 https://github.com/omegaflow/sources/releases/download/ws-uv.canfar.net/vlass_tap_source.bin | cadc-open | https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/
 https://github.com/omegaflow/sources/releases/download/www.hou.usra.edu/lpsc2024_2663.pdf | no-license-stated | https://www.hou.usra.edu/meetings/lpsc2024/
-https://github.com/omegaflow/sources/releases/download/www.kari.re.kr/ephemeris_kplo.bin | no-license-stated | https://www.kari.re.kr/
+https://github.com/omegaflow/sources/releases/download/www.kari.re.kr/ephemeris_kplo.bin | kari-public-release | https://www.kari.re.kr/kpds/search/dirviewer/download/KPLO/KPLO/PublicRelease/kernels/spice_kernels/spk/
 https://github.com/omegaflow/sources/releases/download/www2.census.gov/zcta_gazetteer.bin | PD | https://www.census.gov/
 https://github.com/omegaflow/sources/releases/download/zenodo.org/BC430.tar.gz | CC-BY-4.0 | https://zenodo.org/records/3558850
 https://github.com/omegaflow/sources/releases/download/zenodo.org/ampere_fac.bin | CC0-1.0 | https://zenodo.org/records/22345897
@@ -2559,4 +2558,4 @@ https://zenodo.org/records/10620251/files/Proudfoot23_TNBFits.zip | CC-BY-4.0 | 
 https://zenodo.org/records/10620251/files/multimoon-1.0.zip | CC-BY-4.0 | https://zenodo.org/records/10620251
 https://zenodo.org/records/10794666/files/2007_10_10_Gallagher%20et%20al_DAP%202.0_ESE-RFC-004v1.2.pdf | CC-BY-4.0 | https://zenodo.org/records/10794666
 
-54 blocks carry no terms
+53 blocks carry no terms
