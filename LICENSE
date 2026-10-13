@@ -108,6 +108,7 @@ https://github.com/omegaflow/sources/releases/download/api.dataplatform.knmi.nl/
 https://github.com/omegaflow/sources/releases/download/api.dataplatform.knmi.nl/knmi_10_minute_in_situ_meteorological_observations_1_0_knmi_wind_speed.bin | CC-BY-4.0 | https://developer.dataplatform.knmi.nl/fair-use
 https://github.com/omegaflow/sources/releases/download/api.eumetsat.int/W_XX-EUMETSAT-Darmstadt,IMG+SAT,MTI1+LI-2-LFL--FD--CHK-BODY--ARC-NC4E_C_EUMT_20261006080024_L2PF_OPE_20261006075009_20261006080009_N__O_0048_0001.nc | free-open | https://www.eumetsat.int/legal-framework/data-policy
 https://github.com/omegaflow/sources/releases/download/api.le-systeme-solaire.net/solar_system_bodies.bin | CC-BY-NC-SA-4.0 | https://www.le-systeme-solaire.net/legal.html
+https://github.com/omegaflow/sources/releases/download/api.lsst.fink-portal.org/fink_cutout.bin | CC-BY-4.0 | https://zenodo.org/records/4036589
 https://github.com/omegaflow/sources/releases/download/api.opensensemap.org/opensensemap_temperatur.bin | PDDL-1.0 | https://sensebox.de/de/opensensemap.html
 https://github.com/omegaflow/sources/releases/download/api.sedoo.fr/agrav.bin | license-per-project | https://api.sedoo.fr/get-agrav-rest/station/nearto?longitude=0&latitude=0&radiusKm=20000&institutionUuid=
 https://github.com/omegaflow/sources/releases/download/aqs.epa.gov/epa_aqs_pm25.bin | PD | https://www.epa.gov/outdoor-air-quality-data/do-i-need-request-permission-use-monitoring-data-and-graphics-airdata
