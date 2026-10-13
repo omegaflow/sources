@@ -2,4 +2,4 @@
 
 Flattened CDN assets referenced by `phi/sources.φ`; the register is `phi/sources.φ`.
 Source attribution is generated into `LICENSE` from the `terms` lines.
-Measured: 121 netlocs, 2511 terms directives, 51 blocks carry no terms.
+Measured: 122 netlocs, 2512 terms directives, 51 blocks carry no terms.

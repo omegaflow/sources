@@ -18,6 +18,7 @@ https://api.meteo.lt/v1/stations/vilniaus-ams/observations/latest | CC-BY-SA-4.0
 https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}&current=temperature_2m,relative_humidity_2m,dew_point_2m,surface_pressure,wind_speed_10m | CC-BY-4.0 | https://open-meteo.com/en/licence
 https://api.openaq.org/v3/sensors/{station}/measurements?limit=1&datetime_from={yesterday}T00:00:00Z | CC-BY-4.0 | https://docs.openaq.org/resources/licenses
 https://api.p2pquake.net/v2/jma/quake?limit=100&order=-1 | CC-BY-4.0 | https://www.p2pquake.net/secondary_use/
+https://api.phys.ucalgary.ca/hapi/data?id=NORSTAR_RIOMETER_K2@CHUR&start={week_ago}&stop={now}&format=csv | 10.11575/AFYX-M516 | https://data.phys.ucalgary.ca/data/how_to_cite.html
 https://api.safecast.org/en-US/measurements.json?latitude={lat}&longitude={lon}&distance=5000 | CC0-1.0 | https://safecast.org/about/licenses-we-use/
 https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?station={station}&product=water_level&datum=MLLW&time_zone=gmt&units=metric&format=json&date=latest&application=omegaflow | PD | https://tidesandcurrents.noaa.gov/
 https://api.v2.sondehub.org/sonde/Y3313219 | CC-BY-SA-2.0 | https://registry.opendata.aws/sondehub-telemetry/
