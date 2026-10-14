@@ -1586,6 +1586,7 @@ https://github.com/omegaflow/sources/releases/download/planetarydata.jpl.nasa.go
 https://github.com/omegaflow/sources/releases/download/planetarymaps.usgs.gov/Mercury_M1_M2_M3_M10_mosaic_global_2010.tif | PD | https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits
 https://github.com/omegaflow/sources/releases/download/planetarymaps.usgs.gov/Mercury_MESSENGER_MDIS_Basemap_BDR_Mosaic_Global_166m.tif | PD | https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits
 https://github.com/omegaflow/sources/releases/download/planetarymaps.usgs.gov/Mercury_Messenger_USGS_DEM_Global_665m_v2.tif | PD | https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits
+https://github.com/omegaflow/sources/releases/download/portal.opentopography.org/opentopography_coverage.manifest | PD | https://opentopography.org/usageterms
 https://github.com/omegaflow/sources/releases/download/portal.opentopography.org/srtm15_plus_globaldem.tif | PD | https://opentopography.org/usageterms
 https://github.com/omegaflow/sources/releases/download/power.larc.nasa.gov/nasa_power_t2m.txt | PD | https://power.larc.nasa.gov/
 https://github.com/omegaflow/sources/releases/download/product.gosat-gw.nies.go.jp/gosat_tanso3.manifest | gosat-data-policy | https://product.gosat-gw.nies.go.jp/
@@ -2529,4 +2530,4 @@ https://zenodo.org/records/10620251/files/Proudfoot23_TNBFits.zip | CC-BY-4.0 | 
 https://zenodo.org/records/10620251/files/multimoon-1.0.zip | CC-BY-4.0 | https://zenodo.org/records/10620251
 https://zenodo.org/records/10794666/files/2007_10_10_Gallagher%20et%20al_DAP%202.0_ESE-RFC-004v1.2.pdf | CC-BY-4.0 | https://zenodo.org/records/10794666
 
-51 blocks carry no terms
+50 blocks carry no terms
