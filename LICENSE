@@ -8,9 +8,11 @@ http://archive.eso.org/tap_cat/sync?REQUEST=doQuery&LANG=ADQL&FORMAT=json&QUERY=
 http://archives.ia2.inaf.it:80/vo/tap/projects/sync?REQUEST=doQuery&LANG=ADQL&FORMAT=json&QUERY=SELECT+TOP+5000+ra,dec,flux+FROM+planck.planck_ercsc_f857+WHERE+flux+IS+NOT+NULL | ia2-acknowledgement | https://archives.ia2.inaf.it/
 http://arclink.ethz.ch/fdsnws/event/1/query?format=csv&starttime={today}&endtime={tomorrow}&minmagnitude=1.0&limit=500&orderby=time | free-open | https://www.seismo.ethz.ch/en/knowledge/earthquake-data-and-analysis-tools/waveform-data/
 http://esaskylegacy.esac.esa.int/esasky-legacy-sl-tap/tap/sync?REQUEST=doQuery&LANG=ADQL&FORMAT=json&QUERY=SELECT+TOP+5000+ra,dec,plx,mag_v+FROM+hipparcos1.hip_main+WHERE+plx+IS+NOT+NULL | CC-BY-NC-3.0-IGO | https://www.cosmos.esa.int/web/esdc/terms-and-conditions
+http://esdb.wdcb.ru/ | unknown | http://esdb.wdcb.ru/
 http://gavo.aip.de/tap/sync?REQUEST=doQuery&LANG=ADQL&FORMAT=json&QUERY=SELECT+TOP+5000+RAdeg,DEdeg,HRV,Teff_K+FROM+ravedr4.rave_dr4+WHERE+HRV+IS+NOT+NULL | CC0-1.0 | https://www.g-vo.org/
 http://reg.bom.gov.au/fwo/IDN60901/IDN60901.95765.json | CC-BY-4.0 | https://reg.bom.gov.au/other/copyright.shtml
 http://rjes.wdcb.ru/ | CC-BY-4.0 | http://rjes.wdcb.ru/
+http://stp.wdcb.ru/ | unknown | http://stp.wdcb.ru/
 http://usd.wdcb.ru/ | CC-BY-NC-4.0 | http://usd.wdcb.ru/
 http://www.wdcb.ru/sep/ | wdcb-sep-policy | http://www.wdcb.ru/sep/policy.html
 https://aeronet.gsfc.nasa.gov/cgi-bin/print_web_data_v3?site=GSFC&year={year}&month={month}&day=1&hour=0&year2={year}&month2={month}&day2={day}&hour2=23&AOD15=1&AVG=20&if_no_html=1 | PD | https://aeronet.gsfc.nasa.gov/
@@ -2762,4 +2764,4 @@ https://zenodo.org/records/10620251/files/Proudfoot23_TNBFits.zip | CC-BY-4.0 | 
 https://zenodo.org/records/10620251/files/multimoon-1.0.zip | CC-BY-4.0 | https://zenodo.org/records/10620251
 https://zenodo.org/records/10794666/files/2007_10_10_Gallagher%20et%20al_DAP%202.0_ESE-RFC-004v1.2.pdf | CC-BY-4.0 | https://zenodo.org/records/10794666
 
-52 blocks carry no terms
+50 blocks carry no terms
