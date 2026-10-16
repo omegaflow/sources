@@ -202,6 +202,7 @@ https://github.com/omegaflow/sources/releases/download/data.lpdaac.earthdataclou
 https://github.com/omegaflow/sources/releases/download/data.nsidc.earthdatacloud.nasa.gov/icesat2_atl03.bin | PD | https://www.earthdata.nasa.gov/
 https://github.com/omegaflow/sources/releases/download/data.oceannetworks.ca/onc_hydrophone_psd.bin | onc-open | https://data.oceannetworks.ca/api/archivefiles?method=getListByLocation&token={OCEANNETWORKS_TOKEN}&locationCode=BACNH.H1&deviceCategoryCode=HYDROPHONE&dataProductCode=HSD
 https://github.com/omegaflow/sources/releases/download/data.phys.ucalgary.ca/20261009__atha_themis02_full-keogram.pgm.jpg | free-open | https://data.phys.ucalgary.ca/data/how_to_cite.html
+https://github.com/omegaflow/sources/releases/download/data.phys.ucalgary.ca/themis_asi_fodg_20240510_kapu_themis21_onset.bin | free-open | https://data.phys.ucalgary.ca/data/how_to_cite.html
 https://github.com/omegaflow/sources/releases/download/data.phys.ucalgary.ca/themis_asi_timed_keogram_20240510_kapu_themis21.bin | free-open | https://data.phys.ucalgary.ca/data/how_to_cite.html
 https://github.com/omegaflow/sources/releases/download/data.pmel.noaa.gov/d20_thermocline.csv | PD | https://coastwatch.pfeg.noaa.gov/
 https://github.com/omegaflow/sources/releases/download/data.pmel.noaa.gov/tao_wnd_zonal.csv | PD | https://coastwatch.pfeg.noaa.gov/
