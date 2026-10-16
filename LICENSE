@@ -51,6 +51,7 @@ https://cdaweb.gsfc.nasa.gov/hapi/data?id=SOLO_L2_RPW-TDS-SURV-STAT&time.min={ho
 https://cdaweb.gsfc.nasa.gov/hapi/data?id=THA_L2_FGM@0&time.min={hour_ago}T00:00:00Z&time.max={now}Z&parameters=tha_fgs_btotal,tha_fgs_gse&format=json | PD | https://cdaweb.gsfc.nasa.gov/
 https://cdaweb.gsfc.nasa.gov/hapi/data?id=THA_L2_MOM@0&time.min={hour_ago}T00:00:00Z&time.max={now}Z&parameters=tha_peim_density,tha_peim_velocity_gse&format=json | PD | https://cdaweb.gsfc.nasa.gov/
 https://cdaweb.gsfc.nasa.gov/hapi/data?id=THG_L2_MAG_ABK&time.min={hour_ago}T00:00:00Z&time.max={now}Z&parameters=thg_magh_abk,thg_magd_abk,thg_magz_abk&format=json | PD | https://cdaweb.gsfc.nasa.gov/
+https://cdaweb.gsfc.nasa.gov/hapi/data?id=TIMED_L2A_SABER&time.min={week_ago}T00:00:00Z&time.max={now}Z&parameters=tpgpaltitude,ktemp&format=json | CC0-1.0 | https://spdf.gsfc.nasa.gov/data_use_policy.html
 https://cdaweb.gsfc.nasa.gov/hapi/data?id=WI_H0_MFI@0&time.min={week_ago}T00:00:00Z&time.max={now}Z&parameters=BGSE&format=json | PD | https://cdaweb.gsfc.nasa.gov/
 https://cdaweb.gsfc.nasa.gov/hapi/data?id=WI_H0_SWE&time.min=1994-12-29T00:00:00Z&time.max=2001-05-31T23:59:57Z&parameters=Te,el_bulk_vel_magn,el_density&format=json | PD | https://cdaweb.gsfc.nasa.gov/
 https://cdaweb.gsfc.nasa.gov/hapi/data?id=WI_H2_MFI&time.min={week_ago}T00:00:00Z&time.max={now}Z&parameters=BGSM&format=json | PD | https://cdaweb.gsfc.nasa.gov/
