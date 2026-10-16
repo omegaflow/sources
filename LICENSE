@@ -2613,6 +2613,7 @@ https://raw.githubusercontent.com/fieldtrip/fieldtrip/master/template/headmodel/
 https://seismic-api.science.unimelb.edu.au/month-quakes | CC-BY-4.0 | https://seiscomp.science.unimelb.edu.au/
 https://seismic-api.science.unimelb.edu.au/three-day-quakes | CC-BY-4.0 | https://seiscomp.science.unimelb.edu.au/
 https://seismic-api.science.unimelb.edu.au/today-quakes | CC-BY-4.0 | https://seiscomp.science.unimelb.edu.au/
+https://service.earthscope.org/fdsnws/station/1/query?level=station&format=text&network=IM | CC-BY-4.0 | https://www.earthscope.org/sponsored-open-data/
 https://service.earthscope.org/fdsnws/station/1/query?level=station&format=text&nodata=404 | CC-BY-4.0 | https://www.earthscope.org/sponsored-open-data/
 https://services.arcgis.com/wjcPoefzjpzCgffS/arcgis/rest/services/Environment_Canada_Wind_Speed_and_Direction/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json&resultRecordCount=500 | eccc-end-use-licence | https://eccc-msc.github.io/open-data/licence/readme_en/
 https://services.arcgis.com/xYjDUN35YwdCEcMm/arcgis/rest/services/GOES_GLM_Bolides/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=geojson&resultRecordCount=2000 | PD | https://neo-bolide.ndc.nasa.gov/
