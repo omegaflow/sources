@@ -104,6 +104,7 @@ https://frost.met.no/observations/v0.jsonld?sources={station}&referencetime=late
 https://frost.met.no/observations/v0.jsonld?sources={station}&referencetime=latest&elements=wind_speed&timeoffsets=default&levels=default | free-open | https://data.met.no/DataPolicy
 https://gea.esac.esa.int/tap-server/tap/sync?request=doQuery&lang=adql&format=json&query=SELECT+TOP+500+ra,dec,phot_g_mean_mag,parallax+FROM+gaiadr3.gaia_source+WHERE+non_single_star+>+0+AND+phot_g_mean_mag+<+14 | CC-BY-NC-3.0-IGO | https://www.cosmos.esa.int/web/esdc/terms-and-conditions
 https://gea.esac.esa.int/tap-server/tap/sync?request=doQuery&lang=adql&format=json&query=SELECT+TOP+500+ra,dec,phot_g_mean_mag,parallax,bp_rp+FROM+gaiadr3.gaia_source+WHERE+bp_rp+<+0+AND+parallax+>+10+AND+phot_g_mean_mag+<+18 | CC-BY-NC-3.0-IGO | https://www.cosmos.esa.int/web/esdc/terms-and-conditions
+https://geofon.gfz.de/fdsnws/station/1/query?level=station&format=text&network=GE | CC-BY-4.0 | https://geofon.gfz.de/eqinfo/faq/
 https://github.com/omegaflow/sources/releases/download/ads.atmosphere.copernicus.eu/cams_so2_emission.nc | free-open | https://www.copernicus.eu/en/access-data/copyright-and-licences
 https://github.com/omegaflow/sources/releases/download/air-quality-api.open-meteo.com/openmeteo_birch_pollen.txt | CC-BY-4.0 | https://open-meteo.com/en/licence
 https://github.com/omegaflow/sources/releases/download/alasky.cds.unistra.fr/hips_png_7_0.bin | ODbL-1.0 | https://alasky.cds.unistra.fr/Planets/CDS_P_Mars_Tianwen1-MoRIC/properties
